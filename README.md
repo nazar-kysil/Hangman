@@ -1,5 +1,3 @@
-# Hangman
-
 The goal of the project was to write a hangman game. The program randomly draw a word from some set
 and then show the template in the form: `......`, where each dot corresponds to an unknown letter.
 In subsequent turns the player guesses letters. He wins when he guesses the whole word and losses when
